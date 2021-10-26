@@ -1,0 +1,4 @@
+ID; NAME; BIRTH
+1; Marko; 22-09-1991
+2; Slobodan; 04-07-1989
+3; Vesna; 25-07-1968
